@@ -1,2 +1,2 @@
 # magtools
-Toold to modify tangerineSDR magnetometer log files
+Tool to modify TangerineSDR magnetometer log files
